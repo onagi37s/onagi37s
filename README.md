@@ -1,4 +1,4 @@
-# [お餅にゃむにゃむ](https://twitter.com/MochiNyamu_RCJ)
+# お餅にゃむにゃむ
 
 ## MyProfile
 
@@ -10,6 +10,8 @@ RCJ Rescue Maze チーム"Blend"のソフトウェア(迷路探索アルゴリ�
 RoboCupJunior JapanOpen in Nagoya 
 ### RescueMaze　1st place🏆
 
+
+Twitter:https://twitter.com/MochiNyamu_RCJ
 
 <!--
 **onagi37s/onagi37s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
