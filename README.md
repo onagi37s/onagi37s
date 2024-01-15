@@ -4,7 +4,7 @@
 
 岐阜高専(NITGC)電子制御工学科　3年次
 
-RCJ Rescue Maze チーム"Blend"のソフトウェア(迷路探索アルゴリズム)担当
+RCJ Rescue Maze チーム"たのロボ"のソフトウェア(迷路探索アルゴリズム)担当
 
 ### 2023 
 RoboCupJunior JapanOpen in Nagoya 
