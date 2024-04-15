@@ -2,11 +2,11 @@
 
 ## MyProfile
 
-岐阜高専(NITGC)電子制御工学科　3年次
+岐阜高専(NITGC)電子制御工学科　4年次
 
 RCJ Rescue Maze チーム"たのロボ"のソフトウェア(迷路探索アルゴリズム)担当
 
-### 2023 
+### 2023,2024 
 RoboCupJunior JapanOpen in Nagoya 
 ### RescueMaze　1st place🏆
 
